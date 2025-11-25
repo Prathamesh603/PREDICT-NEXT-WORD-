@@ -2,8 +2,6 @@
 
 This project implements next-word prediction using neural sequence models (LSTM and GRU) trained on Shakespeare's "Hamlet" (from NLTK's Gutenberg). The notebook `experiments.ipynb` contains all data preparation, model definitions, training, prediction helpers, and model saving.
 
-**Repository location:** `ALL PROJECTS/LSTML AND GRU/experiments.ipynb`
-
 ## Quick Summary
 - **Task:** Given a short input sequence, predict the next word.
 - **Dataset:** `shakespeare-hamlet.txt` from NLTK Gutenberg corpus (saved as `hamlet.txt`).
